@@ -1,1 +1,1 @@
-Currently working on a project that allows users to receive anonymous messages through a shareable link. Built using Next.js.
+Currently developing a Next.js-based project that enables users to receive anonymous messages via a shareable link, along with several other integrated features.
